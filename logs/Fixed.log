@@ -176,3 +176,38 @@ Session ID: 72b6b3ad7170e6497a493d847cf174f5
 [01-12-2024 09:45:32.856 INFO admin.Admin_01_Job_Titles] - Driver instance name = 
 [01-12-2024 09:45:32.857 WARN admin.Admin_01_Job_Titles] - Could not determine browser driver name, skipping kill command.
 [01-12-2024 09:45:32.857 WARN admin.Admin_01_Job_Titles] - Command is null, skipping process execution.
+[07-12-2024 14:47:27.288 INFO admin.Admin_01_Job_Titles] - Remove all file in ReportNG screenshot (image)
+[07-12-2024 14:47:27.291 INFO admin.Admin_01_Job_Titles] - Delete success
+[07-12-2024 14:47:27.292 INFO admin.Admin_01_Job_Titles] - Remove all file in Allure attachment (json file)
+[07-12-2024 14:47:54.235 INFO admin.Admin_01_Job_Titles] - OS name = windows 10
+[07-12-2024 14:47:54.236 INFO admin.Admin_01_Job_Titles] - Driver instance name = 
+[07-12-2024 14:47:54.236 WARN admin.Admin_01_Job_Titles] - Could not determine browser driver name, skipping kill command.
+[07-12-2024 14:47:54.236 WARN admin.Admin_01_Job_Titles] - Command is null, skipping process execution.
+[07-12-2024 15:24:45.971 INFO admin.Admin_01_Job_Titles] - Remove all file in ReportNG screenshot (image)
+[07-12-2024 15:24:45.974 INFO admin.Admin_01_Job_Titles] - Delete success
+[07-12-2024 15:24:45.974 INFO admin.Admin_01_Job_Titles] - Remove all file in Allure attachment (json file)
+[07-12-2024 15:25:19.363 INFO admin.Admin_01_Job_Titles] - OS name = windows 10
+[07-12-2024 15:25:19.363 INFO admin.Admin_01_Job_Titles] - Driver instance name = 
+[07-12-2024 15:25:19.364 WARN admin.Admin_01_Job_Titles] - Could not determine browser driver name, skipping kill command.
+[07-12-2024 15:25:19.364 WARN admin.Admin_01_Job_Titles] - Command is null, skipping process execution.
+[08-12-2024 10:02:36.110 INFO admin.Admin_02_Pay_Grades] - Remove all file in ReportNG screenshot (image)
+[08-12-2024 10:02:36.113 INFO admin.Admin_02_Pay_Grades] - Delete success
+[08-12-2024 10:02:36.113 INFO admin.Admin_02_Pay_Grades] - Remove all file in Allure attachment (json file)
+[08-12-2024 10:03:31.787 INFO admin.Admin_02_Pay_Grades] - OS name = windows 10
+[08-12-2024 10:03:31.787 INFO admin.Admin_02_Pay_Grades] - Driver instance name = 
+[08-12-2024 10:03:31.787 WARN admin.Admin_02_Pay_Grades] - Could not determine browser driver name, skipping kill command.
+[08-12-2024 10:03:31.788 WARN admin.Admin_02_Pay_Grades] - Command is null, skipping process execution.
+[08-12-2024 10:04:25.594 INFO admin.Admin_02_Pay_Grades] - Remove all file in ReportNG screenshot (image)
+[08-12-2024 10:04:25.598 INFO admin.Admin_02_Pay_Grades] - Delete success
+[08-12-2024 10:04:25.598 INFO admin.Admin_02_Pay_Grades] - Remove all file in Allure attachment (json file)
+[08-12-2024 10:05:21.555 INFO admin.Admin_02_Pay_Grades] - OS name = windows 10
+[08-12-2024 10:05:21.555 INFO admin.Admin_02_Pay_Grades] - Driver instance name = 
+[08-12-2024 10:05:21.556 WARN admin.Admin_02_Pay_Grades] - Could not determine browser driver name, skipping kill command.
+[08-12-2024 10:05:21.556 WARN admin.Admin_02_Pay_Grades] - Command is null, skipping process execution.
+[08-12-2024 10:07:41.934 INFO admin.Admin_02_Pay_Grades] - Remove all file in ReportNG screenshot (image)
+[08-12-2024 10:07:41.937 INFO admin.Admin_02_Pay_Grades] - Delete success
+[08-12-2024 10:07:41.937 INFO admin.Admin_02_Pay_Grades] - Remove all file in Allure attachment (json file)
+[08-12-2024 10:08:09.294 INFO admin.Admin_02_Pay_Grades] - OS name = windows 10
+[08-12-2024 10:08:09.295 INFO admin.Admin_02_Pay_Grades] - Driver instance name = 
+[08-12-2024 10:08:09.295 WARN admin.Admin_02_Pay_Grades] - Could not determine browser driver name, skipping kill command.
+[08-12-2024 10:08:09.295 WARN admin.Admin_02_Pay_Grades] - Command is null, skipping process execution.

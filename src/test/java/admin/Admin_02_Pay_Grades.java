@@ -22,6 +22,7 @@ public class Admin_02_Pay_Grades extends BaseTest {
     private String browserName;
     public static String payGradeName;
     private String currency;
+    private String expectedCurrencyInTable;
 
     private LoginPageObject loginPage;
     private DashboardPageObject dashboardPage;
@@ -38,6 +39,7 @@ public class Admin_02_Pay_Grades extends BaseTest {
 
         payGradeName = "Pay Grade" + " " + getNumberRandom();
         currency = "USD - United States Dollar";
+        expectedCurrencyInTable = "United States Dollar";
 
         loginPage = PageGeneratorManager.getLoginPage(driver, propertiesConfig);
 
@@ -79,11 +81,9 @@ public class Admin_02_Pay_Grades extends BaseTest {
 
         addPayGradePage.clickToButtonByText("Save");
 
-//        Assert.assertTrue(addPayGradePage.isSuccessMessageDisplayed("Successfully Saved"));
         addPayGradePage.waitForSpinnerIconInvisible();
 
         Assert.assertTrue(addPayGradePage.isSuccessMessageDisplayed("No Records Found"));
-        //addPayGradePage.waitForSpinnerIconInvisible();
 
         Assert.assertEquals(addPayGradePage.getTextboxAttributeByText("Name"), payGradeName);
 
@@ -92,21 +92,19 @@ public class Admin_02_Pay_Grades extends BaseTest {
 
         addPayGradePage.selectInDropdown("Currency", currency);
 
-        addPayGradePage.clickToButtonByText("Save");
+        addPayGradePage.clickToSaveCurrencyButton();
 
-        //Assert.assertTrue(addPayGradePage.isSuccessMessageDisplayed("Successfully Saved"));
         addPayGradePage.waitForSpinnerIconInvisible();
 
-        Assert.assertTrue(addPayGradePage.isSuccessMessageDisplayed("No Records Found"));
 
-        Assert.assertTrue(addPayGradePage.isValueDisplayedAtColumnNameWithTableName("Currencies", "Currency", "1", currency));
+        Assert.assertTrue(addPayGradePage.isValueDisplayedAtColumnNameInCurrenciesTable("Currency", "1", expectedCurrencyInTable));
 
         addPayGradePage.clickToHeaderMenu("Job");
         addPayGradePage.clickToItemInHeaderMenu("Pay Grades");
         addPayGradePage = PageGeneratorManager.getPayGradePage(driver);
 
         Assert.assertTrue(addPayGradePage.isRecordPresentInTableByColumnName("Name", payGradeName));
-        Assert.assertTrue(addPayGradePage.isRecordPresentInTableByColumnName("Currency", currency));
+        Assert.assertTrue(addPayGradePage.isRecordPresentInTableByColumnName("Currency", expectedCurrencyInTable));
     }
 
     @AfterClass
