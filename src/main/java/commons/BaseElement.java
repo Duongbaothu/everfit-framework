@@ -184,4 +184,9 @@ public class BaseElement extends BasePage{
 
         Assert.assertTrue(isFileLoadedSuccess("Select File", employeeInfo.getImage()));
     }
+
+    public void clickToSaveButtonWithHeader(String headerName) {
+        waitForElementClickable(driver, BaseElementUI.SAVE_BUTTON_WITH_HEADER_NAME, headerName);
+        clickToElement(driver, BaseElementUI.SAVE_BUTTON_WITH_HEADER_NAME, headerName);
+    }
 }

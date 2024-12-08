@@ -13,9 +13,9 @@
         <parameter name = "browser" value = "chrome" />
         <classes>
 <!--            <class name="admin.Admin_01_Job_Titles"/>-->
-            <class name="admin.Admin_02_Pay_Grades"/>
+<!--            <class name="admin.Admin_02_Pay_Grades"/>-->
 <!--            <class name="admin.Admin_03_Employment_Status"/>-->
-<!--            <class name="pim.PIM_01_Employee"/>-->
+            <class name="pim.PIM_01_Employee"/>
         </classes>
     </test>
 

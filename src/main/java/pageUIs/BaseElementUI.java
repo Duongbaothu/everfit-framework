@@ -40,4 +40,6 @@ public class BaseElementUI {
     public static final String DYNAMIC_HEADER_MENU_BY_LABEL = "xpath=//span[contains(text(),'%s')]";
     public static final String DYNAMIC_ITEM_IN_HEADER_MENU_BY_LABEL = "xpath=//a[contains(text(),'%s')]";
 
+    public static final String SAVE_BUTTON_WITH_HEADER_NAME = "xpath=//h6[text()='%s']/following-sibling::form//button[contains(string(),'Save')]";
+
 }

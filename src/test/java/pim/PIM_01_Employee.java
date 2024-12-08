@@ -111,7 +111,7 @@ public class PIM_01_Employee extends BaseTest {
 
         personalDetailsPage.setPersionalDetail(employeeInfo);
 
-        personalDetailsPage.clickToButtonByText("Save");
+        personalDetailsPage.clickToSaveButtonWithHeader("Personal Details");
 
         Assert.assertTrue(personalDetailsPage.isSuccessMessageDisplayed("Successfully Updated"));
         personalDetailsPage.waitForSpinnerIconInvisible();

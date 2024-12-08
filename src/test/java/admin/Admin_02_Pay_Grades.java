@@ -92,7 +92,7 @@ public class Admin_02_Pay_Grades extends BaseTest {
 
         addPayGradePage.selectInDropdown("Currency", currency);
 
-        addPayGradePage.clickToSaveCurrencyButton();
+        addPayGradePage.clickToSaveButtonWithHeader("Add Currency");
 
         addPayGradePage.waitForSpinnerIconInvisible();
 
