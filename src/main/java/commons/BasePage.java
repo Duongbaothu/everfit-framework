@@ -212,7 +212,6 @@ public class BasePage {
 
     public void selectItemInCustomDropdown(WebDriver driver, String parentLocator, String childLocator, String itemTextExpected){
         getWebElement(driver, parentLocator).click();
-        sleepInSeconds(1);
         List<WebElement> allItems = new WebDriverWait(driver, Duration.ofSeconds(longTimeout)).until(ExpectedConditions
                 .presenceOfAllElementsLocatedBy(getByLocator(childLocator)));
         for (WebElement item: allItems){
@@ -396,6 +395,15 @@ public class BasePage {
         ((JavascriptExecutor) driver).executeScript("arguments[0].setAttribute('value', '" + value + "')", getWebElement(driver, locator));
     }
 
+    public void sendkeyToElementByJS(WebDriver driver, String locator, String value, String... restParams) {
+        JavascriptExecutor jsExecutor = (JavascriptExecutor) driver;
+        String script = "element = document.querySelector(arguments[0]); " +
+                "element.textContent = arguments[1]; " +
+                "element.setAttribute('value', '" + value + "'); " +
+                "element.dispatchEvent(new Event('input')); ";
+        jsExecutor.executeScript(script, getDynamicLocator(locator, restParams), value);
+    }
+
     public String getElementValidationMessage(WebDriver driver, String locator) {
         return (String) ((JavascriptExecutor) driver).executeScript("return arguments[0].validationMessage;", getWebElement(driver, locator));
     }
@@ -423,6 +431,10 @@ public class BasePage {
 
     public boolean waitForListElementInvisible(WebDriver driver, String locator){
         return new WebDriverWait(driver, Duration.ofSeconds(longTimeout)).until(ExpectedConditions.invisibilityOfAllElements(getListWebElement(driver, locator)));
+    }
+
+    public boolean waitForListElementInvisible(WebDriver driver, String locator, String... restParams){
+        return new WebDriverWait(driver, Duration.ofSeconds(longTimeout)).until(ExpectedConditions.invisibilityOfAllElements(getListWebElement(driver, getDynamicLocator(locator, restParams))));
     }
 
     public void waitForElementSelected(WebDriver driver, String locator){

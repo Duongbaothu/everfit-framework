@@ -34,19 +34,19 @@ public class PropertiesConfig {
     }
 
     public String getApplicationUrl() {
-        String url = properties.getProperty("App.Url"); //lay tu file properties trong environmentConfig
+        String url = properties.getProperty("App.Url");
         if(url != null) return url;
         else throw new RuntimeException("url not specified in the Configuration.properties file.");
     }
 
     public String getApplicationUserName() {
-        String username = properties.getProperty("App.User"); //lay tu file properties trong environmentConfig
+        String username = properties.getProperty("App.User");
         if(username != null) return username;
         else throw new RuntimeException("Username not specified in the Configuration.properties file.");
     }
 
     public String getApplicationPassword() {
-        String password = properties.getProperty("App.Pass"); //lay tu file properties trong environmentConfig
+        String password = properties.getProperty("App.Pass");
         if(password != null) return password;
         else throw new RuntimeException("Password not specified in the Configuration.properties file.");
     }

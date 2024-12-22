@@ -1,14 +1,11 @@
 package commons;
 
 import factoryBrowser.*;
-import factoryEnvironment.DemoFactory;
+import factoryEnvironment.DevFactory;
 import factoryEnvironment.EnvironmentFactory;
-import factoryEnvironment.LocalFactory;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.Dimension;
-import org.openqa.selenium.Point;
-import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.*;
 import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.BeforeSuite;
@@ -19,7 +16,8 @@ import java.io.IOException;
 import java.time.Duration;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-import java.util.Random;
+import java.util.HashMap;
+import java.util.Map;
 
 
 public class BaseTest {
@@ -34,49 +32,13 @@ public class BaseTest {
         log = LogManager.getLogger(getClass());
     }
 
-    protected WebDriver getBrowserDriver(String browserName){
-
-        BrowserList browser = BrowserList.valueOf(browserName.toUpperCase());
-
-        switch (browser){
-            case FIREFOX:
-                driver = new FirefoxDriverManager().getBrowserDriver();
-                break;
-            case CHROME:
-                driver = new ChromeDriverManager().getBrowserDriver();
-                break;
-            case EDGE:
-                driver = new EdgeDriverManager().getBrowserDriver();
-                break;
-            case CHROME_HEADLESS:
-                driver = new HeadlessChromeDriverManager().getBrowserDriver();
-                break;
-            case FIREFOX_HEADLESS:
-                driver = new HeadlessFirefoxDriverManager().getBrowserDriver();
-                break;
-            case EDGE_HEADLESS:
-                driver = new HeadlessEdgeDriverManager().getBrowserDriver();
-                break;
-            default:
-                throw new BrowserNotSupportedException(browserName);
-        }
-
-        driver.manage().window().setPosition(new Point(0, 0));
-        driver.manage().window().setSize(new Dimension(1920, 1080));
-        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(GlobalConstants.getGlobalConstants().getLongTimeout()));
-        driver.get("http://localhost/");
-        return driver;
-    }
-
     public class EnvironmentFactoryProvider {
         private static ThreadLocal<WebDriver> tDriver = new ThreadLocal<>();
 
         public static EnvironmentFactory getFactory(String browserName, String environment) {
             switch (environment.toUpperCase()) {
-                case "LOCAL":
-                    return new LocalFactory(browserName);
-                case "DEMO":
-                    return new DemoFactory(browserName);
+                case "DEV":
+                    return new DevFactory(browserName);
                 default:
                     throw new RuntimeException("Unsupported environment: " + environment);
             }
@@ -110,21 +72,11 @@ public class BaseTest {
         }
     }
 
-    protected String getEmailRandom(){
-        Random rand = new Random();
-        return "john.brown" + rand.nextInt(99999) + "@gmail.com";
+    public static int getTodayWeekday() {
+        LocalDate today = LocalDate.now();
+        return today.getDayOfWeek().getValue(); // Returns 1 for Monday, 7 for Sunday
     }
 
-    protected int getNumberRandom(){
-        Random rand = new Random();
-        return rand.nextInt(999);
-    }
-
-    protected String getCurrentDate(){
-        LocalDate currentDate = LocalDate.now();
-        DateTimeFormatter formatter = DateTimeFormatter.ofPattern("yyyy-MM-dd");
-        return currentDate.format(formatter);
-    }
 
     protected void closeBrowser() {
         String cmd = null;

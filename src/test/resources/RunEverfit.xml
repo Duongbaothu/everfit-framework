@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Everfit" verbose="1">
+
+    <listeners>
+        <listener class-name = "commons.MethodListener"/>
+        <listener class-name = "reportConfig.ExtentTestListener"/>
+    </listeners>
+
+    <parameter name="server" value="dev"/>
+
+    <test name="Run on Chrome Browser" preserve-order="true">
+        <parameter name = "browser" value = "chrome" />
+        <classes>
+            <class name="Tasks"/>
+        </classes>
+    </test>
+
+</suite>

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/orangehrm-selenium.iml" filepath="$PROJECT_DIR$/orangehrm-selenium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/everfit.iml" filepath="$PROJECT_DIR$/everfit.iml" />
     </modules>
   </component>
 </project>

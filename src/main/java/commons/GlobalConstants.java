@@ -28,4 +28,5 @@ public class GlobalConstants {
     private final String uploadPath = relativeProjectPath + File.separator + "uploadFile" + File.separator;
     private final String downloadPath = relativeProjectPath + File.separator + "downloadFile/";
     private final String environmentConfigPath = relativeProjectPath + File.separator + "environmentConfig" + File.separator;
+    private final String DataTestPath = relativeProjectPath + File.separator + "src" + File.separator + "test" + File.separator + "resources" + File.separator;
 }

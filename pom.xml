@@ -2,11 +2,11 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>orangehrm-selenium</groupId>
-    <artifactId>orangehrm-selenium</artifactId>
+    <groupId>everfit</groupId>
+    <artifactId>everfit</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>orangehrm-selenium</name>
-    <description>OrangeHRM Project Automation Testing Framework</description>
+    <name>everfit</name>
+    <description>Everfit Project Automation Testing Framework</description>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -22,11 +22,11 @@
         <aspectj.version>1.9.8</aspectj.version>
         <extent.version>5.1.2</extent.version>
         <log4j.version>2.19.0</log4j.version>
-        <javafaker.version>1.0.2</javafaker.version>
         <jackson-databind.version>2.17.2</jackson-databind.version>
         <jackson-core.version>2.17.2</jackson-core.version>
         <jackson-annotations.version>2.17.2</jackson-annotations.version>
         <lombok.version>1.18.20</lombok.version>
+        <poi.version>5.2.5</poi.version>
     </properties>
 
     <dependencies>
@@ -79,16 +79,16 @@
         </dependency>
 
         <dependency>
+            <groupId>org.apache.logging.log4j</groupId>
+            <artifactId>log4j-slf4j-impl</artifactId>
+            <version>${log4j.version}</version>
+        </dependency>
+
+        <dependency>
             <groupId>org.aspectj</groupId>
             <artifactId>aspectjweaver</artifactId>
             <version>${aspectj.version}</version>
             <scope>runtime</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>com.github.javafaker</groupId>
-            <artifactId>javafaker</artifactId>
-            <version>${javafaker.version}</version>
         </dependency>
 
         <dependency>
@@ -115,6 +115,17 @@
             <version>${lombok.version}</version>
             <scope>provided</scope>
         </dependency>
+
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi</artifactId>
+            <version>${poi.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.poi</groupId>
+            <artifactId>poi-ooxml</artifactId>
+            <version>${poi.version}</version>
+        </dependency>
     </dependencies>
 
     <build>
@@ -135,7 +146,7 @@
                 <version>3.1.2</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>src/test/resources/runOrangeHRM.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/RunEverfit.xml</suiteXmlFile>
                     </suiteXmlFiles>
 
                     <argLine>

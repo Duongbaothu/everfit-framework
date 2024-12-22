@@ -217,3 +217,621 @@ Session ID: 72b6b3ad7170e6497a493d847cf174f5
 [08-12-2024 13:22:21.413 INFO pim.PIM_01_Employee] - Remove all file in ReportNG screenshot (image)
 [08-12-2024 13:22:21.416 INFO pim.PIM_01_Employee] - Delete success
 [08-12-2024 13:22:21.416 INFO pim.PIM_01_Employee] - Remove all file in Allure attachment (json file)
+[20-12-2024 20:29:24.423 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 20:29:24.427 INFO Tasks] - Delete success
+[20-12-2024 20:29:24.427 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 22:00:31.781 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 22:00:31.785 INFO Tasks] - Delete success
+[20-12-2024 22:00:31.785 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 22:01:41.738 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 22:01:41.742 INFO Tasks] - Delete success
+[20-12-2024 22:01:41.743 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 22:02:04.841 INFO Tasks] - OS name = windows 10
+[20-12-2024 22:02:04.842 INFO Tasks] - Driver instance name = 
+[20-12-2024 22:02:04.842 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[20-12-2024 22:02:04.842 WARN Tasks] - Command is null, skipping process execution.
+[20-12-2024 23:01:14.476 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 23:01:14.480 INFO Tasks] - Delete success
+[20-12-2024 23:01:14.480 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 23:02:38.938 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 23:02:38.941 INFO Tasks] - Delete success
+[20-12-2024 23:02:38.941 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 23:07:08.842 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 23:07:08.845 INFO Tasks] - Delete success
+[20-12-2024 23:07:08.845 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 23:10:02.321 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 23:10:02.325 INFO Tasks] - Delete success
+[20-12-2024 23:10:02.325 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 23:10:18.776 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 23:10:18.779 INFO Tasks] - Delete success
+[20-12-2024 23:10:18.780 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 23:11:06.414 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 23:11:06.417 INFO Tasks] - Delete success
+[20-12-2024 23:11:06.417 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 23:16:55.782 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 23:16:55.785 INFO Tasks] - Delete success
+[20-12-2024 23:16:55.785 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 23:31:40.506 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 23:31:40.509 INFO Tasks] - Delete success
+[20-12-2024 23:31:40.509 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 23:31:55.021 INFO Tasks] - OS name = windows 10
+[20-12-2024 23:31:55.021 INFO Tasks] - Driver instance name = 
+[20-12-2024 23:31:55.022 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[20-12-2024 23:31:55.022 WARN Tasks] - Command is null, skipping process execution.
+[20-12-2024 23:51:40.808 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 23:51:40.811 INFO Tasks] - Delete success
+[20-12-2024 23:51:40.811 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 23:53:49.542 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 23:53:49.546 INFO Tasks] - Delete success
+[20-12-2024 23:53:49.546 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 23:54:57.304 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 23:54:57.307 INFO Tasks] - Delete success
+[20-12-2024 23:54:57.308 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 23:55:43.848 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 23:55:43.851 INFO Tasks] - Delete success
+[20-12-2024 23:55:43.851 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 23:55:58.527 INFO Tasks] - OS name = windows 10
+[20-12-2024 23:55:58.528 INFO Tasks] - Driver instance name = 
+[20-12-2024 23:55:58.528 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[20-12-2024 23:55:58.528 WARN Tasks] - Command is null, skipping process execution.
+[20-12-2024 23:56:16.622 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[20-12-2024 23:56:16.625 INFO Tasks] - Delete success
+[20-12-2024 23:56:16.625 INFO Tasks] - Remove all file in Allure attachment (json file)
+[20-12-2024 23:56:31.407 INFO Tasks] - OS name = windows 10
+[20-12-2024 23:56:31.408 INFO Tasks] - Driver instance name = 
+[20-12-2024 23:56:31.408 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[20-12-2024 23:56:31.408 WARN Tasks] - Command is null, skipping process execution.
+[21-12-2024 00:02:01.500 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 00:02:01.503 INFO Tasks] - Delete success
+[21-12-2024 00:02:01.503 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 00:02:19.381 INFO Tasks] - OS name = windows 10
+[21-12-2024 00:02:19.381 INFO Tasks] - Driver instance name = 
+[21-12-2024 00:02:19.382 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[21-12-2024 00:02:19.382 WARN Tasks] - Command is null, skipping process execution.
+[21-12-2024 09:05:59.653 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 09:05:59.656 INFO Tasks] - Delete success
+[21-12-2024 09:05:59.656 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 11:27:43.287 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 11:27:43.291 INFO Tasks] - Delete success
+[21-12-2024 11:27:43.291 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 11:29:11.054 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 11:29:11.057 INFO Tasks] - Delete success
+[21-12-2024 11:29:11.057 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 11:37:50.922 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 11:37:50.925 INFO Tasks] - Delete success
+[21-12-2024 11:37:50.925 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 11:39:26.418 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 11:39:26.421 INFO Tasks] - Delete success
+[21-12-2024 11:39:26.421 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 11:48:05.223 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 11:48:05.229 INFO Tasks] - Delete success
+[21-12-2024 11:48:05.230 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 11:48:59.230 INFO Tasks] - OS name = windows 10
+[21-12-2024 11:48:59.230 INFO Tasks] - Driver instance name = 
+[21-12-2024 11:48:59.230 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[21-12-2024 11:48:59.230 WARN Tasks] - Command is null, skipping process execution.
+[21-12-2024 11:52:36.149 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 11:52:36.155 INFO Tasks] - Delete success
+[21-12-2024 11:52:36.156 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 11:52:58.151 INFO Tasks] - OS name = windows 10
+[21-12-2024 11:52:58.151 INFO Tasks] - Driver instance name = 
+[21-12-2024 11:52:58.151 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[21-12-2024 11:52:58.152 WARN Tasks] - Command is null, skipping process execution.
+[21-12-2024 12:06:32.837 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 12:06:32.843 INFO Tasks] - Delete success
+[21-12-2024 12:06:32.843 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 12:06:54.433 INFO Tasks] - OS name = windows 10
+[21-12-2024 12:06:54.433 INFO Tasks] - Driver instance name = 
+[21-12-2024 12:06:54.434 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[21-12-2024 12:06:54.434 WARN Tasks] - Command is null, skipping process execution.
+[21-12-2024 13:34:58.643 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 13:34:58.653 INFO Tasks] - Delete success
+[21-12-2024 13:34:58.653 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 13:36:15.843 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 13:36:15.850 INFO Tasks] - Delete success
+[21-12-2024 13:36:15.850 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 13:37:09.255 INFO Tasks] - OS name = windows 10
+[21-12-2024 13:37:09.256 INFO Tasks] - Driver instance name = 
+[21-12-2024 13:37:09.256 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[21-12-2024 13:37:09.256 WARN Tasks] - Command is null, skipping process execution.
+[21-12-2024 13:47:17.921 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 13:47:17.928 INFO Tasks] - Delete success
+[21-12-2024 13:47:17.929 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 13:48:15.434 INFO Tasks] - OS name = windows 10
+[21-12-2024 13:48:15.435 INFO Tasks] - Driver instance name = 
+[21-12-2024 13:48:15.435 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[21-12-2024 13:48:15.435 WARN Tasks] - Command is null, skipping process execution.
+[21-12-2024 13:51:12.792 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 13:51:12.800 INFO Tasks] - Delete success
+[21-12-2024 13:51:12.800 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 13:52:13.776 INFO Tasks] - OS name = windows 10
+[21-12-2024 13:52:13.776 INFO Tasks] - Driver instance name = 
+[21-12-2024 13:52:13.776 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[21-12-2024 13:52:13.776 WARN Tasks] - Command is null, skipping process execution.
+[21-12-2024 13:55:24.454 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 13:55:24.460 INFO Tasks] - Delete success
+[21-12-2024 13:55:24.460 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 13:56:21.227 INFO Tasks] - OS name = windows 10
+[21-12-2024 13:56:21.227 INFO Tasks] - Driver instance name = 
+[21-12-2024 13:56:21.228 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[21-12-2024 13:56:21.228 WARN Tasks] - Command is null, skipping process execution.
+[21-12-2024 13:56:51.667 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 13:56:51.674 INFO Tasks] - Delete success
+[21-12-2024 13:56:51.675 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 13:57:48.523 INFO Tasks] - OS name = windows 10
+[21-12-2024 13:57:48.524 INFO Tasks] - Driver instance name = 
+[21-12-2024 13:57:48.524 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[21-12-2024 13:57:48.524 WARN Tasks] - Command is null, skipping process execution.
+[21-12-2024 14:02:18.077 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 14:02:18.083 INFO Tasks] - Delete success
+[21-12-2024 14:02:18.084 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 14:03:15.826 INFO Tasks] - OS name = windows 10
+[21-12-2024 14:03:15.827 INFO Tasks] - Driver instance name = 
+[21-12-2024 14:03:15.827 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[21-12-2024 14:03:15.828 WARN Tasks] - Command is null, skipping process execution.
+[21-12-2024 22:08:04.818 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 22:08:04.826 INFO Tasks] - Delete success
+[21-12-2024 22:08:04.826 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 22:12:00.243 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 22:12:00.249 INFO Tasks] - Delete success
+[21-12-2024 22:12:00.249 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 22:20:44.463 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 22:20:44.470 INFO Tasks] - Delete success
+[21-12-2024 22:20:44.471 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 22:23:07.989 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 22:23:07.995 INFO Tasks] - Delete success
+[21-12-2024 22:23:07.995 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 22:24:43.563 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 22:24:43.571 INFO Tasks] - Delete success
+[21-12-2024 22:24:43.571 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 22:27:29.643 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 22:27:29.649 INFO Tasks] - Delete success
+[21-12-2024 22:27:29.650 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 22:28:34.936 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 22:28:34.943 INFO Tasks] - Delete success
+[21-12-2024 22:28:34.943 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 22:31:44.462 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 22:31:44.468 INFO Tasks] - Delete success
+[21-12-2024 22:31:44.469 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 22:33:17.567 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 22:33:17.574 INFO Tasks] - Delete success
+[21-12-2024 22:33:17.574 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 22:37:16.094 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 22:37:16.102 INFO Tasks] - Delete success
+[21-12-2024 22:37:16.102 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 22:38:00.852 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 22:38:00.860 INFO Tasks] - Delete success
+[21-12-2024 22:38:00.860 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 22:48:31.153 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 22:48:31.160 INFO Tasks] - Delete success
+[21-12-2024 22:48:31.160 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 22:52:31.301 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 22:52:31.308 INFO Tasks] - Delete success
+[21-12-2024 22:52:31.308 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 23:03:44.834 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 23:03:44.840 INFO Tasks] - Delete success
+[21-12-2024 23:03:44.841 INFO Tasks] - Remove all file in Allure attachment (json file)
+[21-12-2024 23:05:22.520 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[21-12-2024 23:05:22.527 INFO Tasks] - Delete success
+[21-12-2024 23:05:22.527 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 09:39:03.109 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 09:39:03.118 INFO Tasks] - Delete success
+[22-12-2024 09:39:03.118 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 09:42:32.499 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 09:42:32.507 INFO Tasks] - Delete success
+[22-12-2024 09:42:32.507 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 09:47:03.966 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 09:47:03.975 INFO Tasks] - Delete success
+[22-12-2024 09:47:03.976 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 09:58:21.237 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 09:58:21.243 INFO Tasks] - Delete success
+[22-12-2024 09:58:21.244 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 10:03:40.467 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 10:03:40.474 INFO Tasks] - Delete success
+[22-12-2024 10:03:40.475 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 10:07:49.477 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 10:07:49.484 INFO Tasks] - Delete success
+[22-12-2024 10:07:49.484 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 10:17:01.817 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 10:17:01.824 INFO Tasks] - Delete success
+[22-12-2024 10:17:01.825 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 10:20:42.673 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 10:20:42.680 INFO Tasks] - Delete success
+[22-12-2024 10:20:42.681 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 10:23:49.476 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 10:23:49.483 INFO Tasks] - Delete success
+[22-12-2024 10:23:49.483 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 10:38:44.059 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 10:38:44.064 INFO Tasks] - Delete success
+[22-12-2024 10:38:44.065 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 10:40:32.410 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 10:40:32.417 INFO Tasks] - Delete success
+[22-12-2024 10:40:32.417 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 10:42:50.354 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 10:42:50.361 INFO Tasks] - Delete success
+[22-12-2024 10:42:50.361 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 10:43:53.961 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 10:43:53.968 INFO Tasks] - Delete success
+[22-12-2024 10:43:53.969 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 10:49:05.070 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 10:49:05.300 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 10:49:05.311 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 10:49:05.316 INFO Tasks] - Delete success
+[22-12-2024 10:49:05.316 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 10:52:29.880 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 10:52:30.088 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 10:52:30.100 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 10:52:30.105 INFO Tasks] - Delete success
+[22-12-2024 10:52:30.105 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 11:03:21.822 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 11:03:22.069 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 11:03:22.080 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 11:03:22.084 INFO Tasks] - Delete success
+[22-12-2024 11:03:22.085 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 11:14:49.813 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 11:14:50.014 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 11:14:50.026 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 11:14:50.031 INFO Tasks] - Delete success
+[22-12-2024 11:14:50.031 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 11:21:02.298 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 11:21:02.519 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 11:21:02.531 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 11:21:02.536 INFO Tasks] - Delete success
+[22-12-2024 11:21:02.536 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 11:25:38.657 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 11:25:38.875 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 11:25:38.886 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 11:25:38.891 INFO Tasks] - Delete success
+[22-12-2024 11:25:38.891 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 11:31:28.774 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 11:31:28.985 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 11:31:28.997 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 11:31:29.002 INFO Tasks] - Delete success
+[22-12-2024 11:31:29.003 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 11:36:35.535 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 11:36:35.747 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 11:36:35.758 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 11:36:35.763 INFO Tasks] - Delete success
+[22-12-2024 11:36:35.763 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 11:59:38.869 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 11:59:39.126 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 11:59:39.139 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 11:59:39.144 INFO Tasks] - Delete success
+[22-12-2024 11:59:39.144 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 12:06:19.295 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 12:06:19.506 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 12:06:19.517 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 12:06:19.522 INFO Tasks] - Delete success
+[22-12-2024 12:06:19.522 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 12:10:37.264 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 12:10:37.479 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 12:10:37.490 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 12:10:37.494 INFO Tasks] - Delete success
+[22-12-2024 12:10:37.495 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 12:12:17.448 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 12:12:17.655 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 12:12:17.667 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 12:12:17.672 INFO Tasks] - Delete success
+[22-12-2024 12:12:17.673 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 12:16:21.777 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 12:16:22.001 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 12:16:22.012 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 12:16:22.017 INFO Tasks] - Delete success
+[22-12-2024 12:16:22.017 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 12:22:08.238 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 12:22:08.457 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 12:22:08.469 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 12:22:08.474 INFO Tasks] - Delete success
+[22-12-2024 12:22:08.474 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 12:22:56.716 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 12:22:56.950 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 12:22:56.962 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 12:22:56.969 INFO Tasks] - Delete success
+[22-12-2024 12:22:56.969 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 12:50:21.396 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 12:50:21.605 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 12:50:21.616 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 12:50:21.621 INFO Tasks] - Delete success
+[22-12-2024 12:50:21.621 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 12:51:17.909 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 12:51:18.140 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 12:51:18.152 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 12:51:18.156 INFO Tasks] - Delete success
+[22-12-2024 12:51:18.156 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 13:17:02.590 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 13:17:02.802 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 13:17:02.812 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 13:17:02.817 INFO Tasks] - Delete success
+[22-12-2024 13:17:02.817 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 13:17:58.438 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 13:17:58.661 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 13:17:58.672 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 13:17:58.677 INFO Tasks] - Delete success
+[22-12-2024 13:17:58.677 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 13:27:09.819 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 13:27:10.076 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 13:27:10.087 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 13:27:10.091 INFO Tasks] - Delete success
+[22-12-2024 13:27:10.092 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 13:34:06.882 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 13:34:07.090 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 13:34:07.101 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 13:34:07.106 INFO Tasks] - Delete success
+[22-12-2024 13:34:07.106 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 14:40:02.917 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 14:40:03.131 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 14:40:03.143 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 14:40:03.148 INFO Tasks] - Delete success
+[22-12-2024 14:40:03.148 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 14:44:58.533 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 14:44:58.757 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 14:44:58.769 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 14:44:58.774 INFO Tasks] - Delete success
+[22-12-2024 14:44:58.774 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 14:53:08.596 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 14:53:08.806 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 14:53:08.816 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 14:53:08.821 INFO Tasks] - Delete success
+[22-12-2024 14:53:08.822 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 14:57:26.561 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 14:57:26.778 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 14:57:26.789 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 14:57:26.794 INFO Tasks] - Delete success
+[22-12-2024 14:57:26.794 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 15:47:18.011 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 15:47:18.221 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 15:47:18.232 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 15:47:18.236 INFO Tasks] - Delete success
+[22-12-2024 15:47:18.237 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 15:50:10.461 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 15:50:10.684 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 15:50:10.695 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 15:50:10.700 INFO Tasks] - Delete success
+[22-12-2024 15:50:10.700 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 15:54:08.184 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 15:54:08.391 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 15:54:08.402 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 15:54:08.407 INFO Tasks] - Delete success
+[22-12-2024 15:54:08.408 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 16:08:06.858 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 16:08:07.075 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 16:08:07.086 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 16:08:07.090 INFO Tasks] - Delete success
+[22-12-2024 16:08:07.090 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 16:09:12.537 INFO Tasks] - OS name = windows 10
+[22-12-2024 16:09:12.538 INFO Tasks] - Driver instance name = 
+[22-12-2024 16:09:12.538 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[22-12-2024 16:09:12.538 WARN Tasks] - Command is null, skipping process execution.
+[22-12-2024 16:36:35.008 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 16:36:35.204 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 16:36:35.216 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 16:36:35.222 INFO Tasks] - Delete success
+[22-12-2024 16:36:35.222 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 16:37:22.030 INFO Tasks] - OS name = windows 10
+[22-12-2024 16:37:22.031 INFO Tasks] - Driver instance name = 
+[22-12-2024 16:37:22.031 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[22-12-2024 16:37:22.031 WARN Tasks] - Command is null, skipping process execution.
+[22-12-2024 16:41:10.106 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 16:41:10.317 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 16:41:10.329 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 16:41:10.335 INFO Tasks] - Delete success
+[22-12-2024 16:41:10.335 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 16:41:56.210 INFO Tasks] - OS name = windows 10
+[22-12-2024 16:41:56.210 INFO Tasks] - Driver instance name = 
+[22-12-2024 16:41:56.210 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[22-12-2024 16:41:56.210 WARN Tasks] - Command is null, skipping process execution.
+[22-12-2024 16:44:45.742 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 16:44:45.948 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 16:44:45.959 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 16:44:45.964 INFO Tasks] - Delete success
+[22-12-2024 16:44:45.964 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 16:45:03.748 INFO Tasks] - OS name = windows 10
+[22-12-2024 16:45:03.749 INFO Tasks] - Driver instance name = 
+[22-12-2024 16:45:03.749 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[22-12-2024 16:45:03.749 WARN Tasks] - Command is null, skipping process execution.
+[22-12-2024 17:20:12.342 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 17:20:12.555 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 17:20:12.566 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 17:20:12.571 INFO Tasks] - Delete success
+[22-12-2024 17:20:12.571 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 17:20:48.922 INFO Tasks] - OS name = windows 10
+[22-12-2024 17:20:48.922 INFO Tasks] - Driver instance name = 
+[22-12-2024 17:20:48.923 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[22-12-2024 17:20:48.923 WARN Tasks] - Command is null, skipping process execution.
+[22-12-2024 20:28:48.193 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 20:28:48.417 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 20:28:48.428 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 20:28:48.433 INFO Tasks] - Delete success
+[22-12-2024 20:28:48.434 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 20:30:44.224 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 20:30:44.445 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 20:30:44.456 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 20:30:44.460 INFO Tasks] - Delete success
+[22-12-2024 20:30:44.461 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 20:32:40.214 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 20:32:40.455 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 20:32:40.466 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 20:32:40.470 INFO Tasks] - Delete success
+[22-12-2024 20:32:40.470 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 20:40:35.576 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 20:40:35.792 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 20:40:35.803 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 20:40:35.807 INFO Tasks] - Delete success
+[22-12-2024 20:40:35.808 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 20:45:44.105 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 20:45:44.331 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 20:45:44.343 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 20:45:44.348 INFO Tasks] - Delete success
+[22-12-2024 20:45:44.348 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 20:46:33.304 INFO Tasks] - OS name = windows 10
+[22-12-2024 20:46:33.304 INFO Tasks] - Driver instance name = 
+[22-12-2024 20:46:33.305 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[22-12-2024 20:46:33.305 WARN Tasks] - Command is null, skipping process execution.
+[22-12-2024 20:49:02.951 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 20:49:03.163 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 20:49:03.174 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 20:49:03.178 INFO Tasks] - Delete success
+[22-12-2024 20:49:03.178 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 20:50:48.675 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 20:50:48.910 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 20:50:48.922 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 20:50:48.926 INFO Tasks] - Delete success
+[22-12-2024 20:50:48.926 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 20:57:18.310 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 20:57:18.534 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 20:57:18.546 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 20:57:18.551 INFO Tasks] - Delete success
+[22-12-2024 20:57:18.551 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 20:59:07.384 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 20:59:07.602 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 20:59:07.613 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 20:59:07.618 INFO Tasks] - Delete success
+[22-12-2024 20:59:07.618 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 21:01:12.483 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 21:01:12.707 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 21:01:12.719 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 21:01:12.724 INFO Tasks] - Delete success
+[22-12-2024 21:01:12.724 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 21:02:41.815 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 21:02:42.025 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 21:02:42.037 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 21:02:42.042 INFO Tasks] - Delete success
+[22-12-2024 21:02:42.042 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 21:08:32.615 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 21:08:32.837 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 21:08:32.848 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 21:08:32.853 INFO Tasks] - Delete success
+[22-12-2024 21:08:32.854 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 21:09:13.147 INFO Tasks] - OS name = windows 10
+[22-12-2024 21:09:13.147 INFO Tasks] - Driver instance name = 
+[22-12-2024 21:09:13.147 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[22-12-2024 21:09:13.147 WARN Tasks] - Command is null, skipping process execution.
+[22-12-2024 21:14:14.206 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 21:14:14.434 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 21:14:14.445 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 21:14:14.450 INFO Tasks] - Delete success
+[22-12-2024 21:14:14.450 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 21:15:55.083 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 21:15:55.309 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 21:15:55.320 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 21:15:55.325 INFO Tasks] - Delete success
+[22-12-2024 21:15:55.325 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 21:16:36.908 INFO Tasks] - OS name = windows 10
+[22-12-2024 21:16:36.908 INFO Tasks] - Driver instance name = 
+[22-12-2024 21:16:36.908 WARN Tasks] - Could not determine browser driver name, skipping kill command.
+[22-12-2024 21:16:36.909 WARN Tasks] - Command is null, skipping process execution.
+[22-12-2024 21:25:08.039 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 21:25:08.264 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 21:25:08.275 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 21:25:08.280 INFO Tasks] - Delete success
+[22-12-2024 21:25:08.280 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 21:28:07.580 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 21:28:07.815 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 21:28:07.827 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 21:28:07.831 INFO Tasks] - Delete success
+[22-12-2024 21:28:07.831 INFO Tasks] - Remove all file in Allure attachment (json file)
+[22-12-2024 21:30:30.768 WARN org.testng.xml.TestNGContentHandler] - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [D:\everfit\src\test\resources\RunEverfit.xml] otherwise TestNG may fail or not work as expected.
+[22-12-2024 21:30:30.990 INFO org.testng.internal.Utils] - [TestNG] Running:
+  D:\everfit\src\test\resources\RunEverfit.xml
+
+[22-12-2024 21:30:31.001 INFO Tasks] - Remove all file in ReportNG screenshot (image)
+[22-12-2024 21:30:31.006 INFO Tasks] - Delete success
+[22-12-2024 21:30:31.006 INFO Tasks] - Remove all file in Allure attachment (json file)

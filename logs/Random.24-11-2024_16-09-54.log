@@ -1,5 +1,0 @@
-[24-11-2024 16:09:55.141 INFO admin.Admin_02_Pay_Grades] - Remove all file in ReportNG screenshot (image)
-[24-11-2024 16:09:55.144 INFO admin.Admin_02_Pay_Grades] - Delete success
-[24-11-2024 16:09:55.144 INFO admin.Admin_02_Pay_Grades] - Remove all file in Allure attachment (json file)
-[24-11-2024 16:11:15.124 INFO admin.Admin_02_Pay_Grades] - OS name = windows 10
-[24-11-2024 16:11:15.125 INFO admin.Admin_02_Pay_Grades] - Driver instance name = chromedriver: chrome on windows (c51c8065fe3d632a9d64a2799183c67b)

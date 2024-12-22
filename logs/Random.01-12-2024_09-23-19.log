@@ -1,9 +1,0 @@
-[01-12-2024 09:23:20.013 INFO admin.Admin_01_Job_Titles] - Remove all file in ReportNG screenshot (image)
-[01-12-2024 09:23:20.016 INFO admin.Admin_01_Job_Titles] - Delete success
-[01-12-2024 09:23:20.016 INFO admin.Admin_01_Job_Titles] - Remove all file in Allure attachment (json file)
-[01-12-2024 09:23:47.056 INFO admin.Admin_01_Job_Titles] - OS name = windows 10
-[01-12-2024 09:23:47.057 INFO admin.Admin_01_Job_Titles] - Cannot invoke "Object.toString()" because "this.driver" is null
-[01-12-2024 09:24:11.727 INFO admin.Admin_01_Job_Titles] - OS name = windows 10
-[01-12-2024 09:24:11.728 INFO admin.Admin_01_Job_Titles] - Cannot invoke "Object.toString()" because "this.driver" is null
-[01-12-2024 09:24:12.577 INFO admin.Admin_01_Job_Titles] - OS name = windows 10
-[01-12-2024 09:24:12.577 INFO admin.Admin_01_Job_Titles] - Cannot invoke "Object.toString()" because "this.driver" is null

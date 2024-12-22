@@ -11,15 +11,15 @@ public class ExtentManager {
 
     public synchronized static ExtentReports createExtentReports() {
         ExtentSparkReporter reporter = new ExtentSparkReporter(GlobalConstants.getGlobalConstants().getRelativeProjectPath() + "/extentReport/HTMLReportVersion5.html");
-        reporter.config().setReportName("NopCommerce HTML Report");
-        reporter.config().setDocumentTitle("NopCommerce HTML Report");
+        reporter.config().setReportName("Everfit HTML Report");
+        reporter.config().setDocumentTitle("Everfit HTML Report");
         reporter.config().setTimelineEnabled(true);
         reporter.config().setEncoding("utf-8");
         reporter.config().setTheme(Theme.DARK);
 
         extentReports.attachReporter(reporter);
-        extentReports.setSystemInfo("Company", "Automation FC");
-        extentReports.setSystemInfo("Project", "NopCommerce");
+        extentReports.setSystemInfo("Company", "Everfit");
+        extentReports.setSystemInfo("Project", "Everfit");
         extentReports.setSystemInfo("JDK version", GlobalConstants.getGlobalConstants().getJavaVersion());
         return extentReports;
     }

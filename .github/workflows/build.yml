@@ -1,4 +1,4 @@
-name: Project OrangeHRM CI Pipeline
+name: Project everfit CI Pipeline
 
 on:
   push:
