@@ -1,49 +1,36 @@
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\commons\BrowserList.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\PIMPageUIs\EmergencyContactsPageUI.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\BaseElementUI.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\PIMPageUIs\QualificationsPageUI.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\PIMPageUIs\EmployeeListPageUI.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\PIMPageObjects\ImmigrationPageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\PIMPageUIs\AddEmployeePageUI.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\PIMPageObjects\EmergencyContactsPageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\PIMPageObjects\LoginPageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\AdminPageObjects\SystemUsersPageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\PIMPageObjects\DashboardPageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\utilities\JDBCConfig.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\PIMPageObjects\DependentsPageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\PIMPageUIs\EmployeeJobPageUI.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\commons\BaseElement.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\PIMPageUIs\DependentsPageUI.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\PIMPageObjects\ContactDetailsPageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\retryConfig\RetryListener.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\commons\GlobalConstants.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\PIMPageUIs\SalaryPageUI.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\PIMPageObjects\PersonalDetailsPageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\reportConfig\ExtentManager.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\AdminPageObjects\JobTitlePageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\PIMPageObjects\ReportToPageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\PIMPageObjects\AddEmployeePageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\AdminPageObjects\EmploymentStatusPageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\PIMPageUIs\ChangeProfilePicturePageUI.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\commons\BasePage.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\PIMPageObjects\QualificationsPageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\PIMPageObjects\SalaryPageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\utilities\ExcelConfig.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\commons\PageGeneratorManager.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\PIMPageUIs\ReportToPageUI.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\PIMPageUIs\ContactDetailsPageUI.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\reportConfig\ExtentTestListener.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\commons\BaseTest.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\commons\MethodListener.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\commons\TestNGAppender.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\PIMPageObjects\EmployeeListPageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\PIMPageUIs\ImmigrationPageUI.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\PIMPageObjects\ChangeProfilePicturePageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\reportConfig\ExtentTestManager.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\commons\VerificationFailures.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\utilities\PropertiesConfig.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\PIMPageUIs\DashboardPageUI.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\AdminPageObjects\PayGradePageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageObjects\PIMPageObjects\EmployeeJobPageObject.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\PIMPageUIs\LoginPageUI.java
-D:\Automation testing\03 - Java Hybrid Framework\orangehrm-selenium\src\main\java\PageUIs\PIMPageUIs\PersonalDetailsPageUI.java
+D:\everfit\src\main\java\commons\TestNGAppender.java
+D:\everfit\src\main\java\reportConfig\ExtentTestListener.java
+D:\everfit\src\main\java\utilities\PropertiesConfig.java
+D:\everfit\src\main\java\factoryEnvironment\DevFactory.java
+D:\everfit\src\main\java\pageUIs\BaseElementUI.java
+D:\everfit\src\main\java\factoryEnvironment\EnvironmentFactory.java
+D:\everfit\src\main\java\pageUIs\ClientListPageUI.java
+D:\everfit\src\main\java\commons\MethodListener.java
+D:\everfit\src\main\java\factoryBrowser\ChromeDriverManager.java
+D:\everfit\src\main\java\utilities\ExcelConfig.java
+D:\everfit\src\main\java\commons\BaseTest.java
+D:\everfit\src\main\java\pageObjects\LoginPageObject.java
+D:\everfit\src\main\java\pageObjects\TasksPageObject.java
+D:\everfit\src\main\java\pageUIs\LoginPageUI.java
+D:\everfit\src\main\java\factoryBrowser\HeadlessFirefoxDriverManager.java
+D:\everfit\src\main\java\commons\BaseElement.java
+D:\everfit\src\main\java\pageObjects\ClientPageObject.java
+D:\everfit\src\main\java\commons\GlobalConstants.java
+D:\everfit\src\main\java\factoryBrowser\BrowserNotSupportedException.java
+D:\everfit\src\main\java\commons\VerificationFailures.java
+D:\everfit\src\main\java\commons\BasePage.java
+D:\everfit\src\main\java\pageUIs\ClientPageUI.java
+D:\everfit\src\main\java\factoryBrowser\BrowserList.java
+D:\everfit\src\main\java\reportConfig\ExtentTestManager.java
+D:\everfit\src\main\java\factoryBrowser\BrowserFactory.java
+D:\everfit\src\main\java\testData\ClientData.java
+D:\everfit\src\main\java\factoryBrowser\HeadlessChromeDriverManager.java
+D:\everfit\src\main\java\testData\HabitTaskData.java
+D:\everfit\src\main\java\retryConfig\RetryListener.java
+D:\everfit\src\main\java\commons\PageGeneratorManager.java
+D:\everfit\src\main\java\pageObjects\ClientListPageObject.java
+D:\everfit\src\main\java\factoryBrowser\EdgeDriverManager.java
+D:\everfit\src\main\java\factoryBrowser\HeadlessEdgeDriverManager.java
+D:\everfit\src\main\java\reportConfig\ExtentManager.java
+D:\everfit\src\main\java\factoryBrowser\FirefoxDriverManager.java
+D:\everfit\src\main\java\pageUIs\TasksPageUI.java

@@ -32,6 +32,39 @@ public class BaseTest {
         log = LogManager.getLogger(getClass());
     }
 
+    protected WebDriver getBrowserDriver(String browserName){
+
+        BrowserList browser = BrowserList.valueOf(browserName.toUpperCase());
+
+        switch (browser){
+            case FIREFOX:
+                driver = new FirefoxDriverManager().getBrowserDriver();
+                break;
+            case CHROME:
+                driver = new ChromeDriverManager().getBrowserDriver();
+                break;
+            case EDGE:
+                driver = new EdgeDriverManager().getBrowserDriver();
+                break;
+            case CHROME_HEADLESS:
+                driver = new HeadlessChromeDriverManager().getBrowserDriver();
+                break;
+            case FIREFOX_HEADLESS:
+                driver = new HeadlessFirefoxDriverManager().getBrowserDriver();
+                break;
+            case EDGE_HEADLESS:
+                driver = new HeadlessEdgeDriverManager().getBrowserDriver();
+                break;
+            default:
+                throw new BrowserNotSupportedException(browserName);
+        }
+
+        driver.manage().window().setPosition(new Point(0, 0));
+        driver.manage().window().setSize(new Dimension(1920, 1080));
+        driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(GlobalConstants.getGlobalConstants().getLongTimeout()));
+        return driver;
+    }
+
     public class EnvironmentFactoryProvider {
         private static ThreadLocal<WebDriver> tDriver = new ThreadLocal<>();
 
@@ -135,8 +168,6 @@ public class BaseTest {
             }
         }
     }
-
-
 
     protected boolean verifyTrue(boolean condition) {
         boolean pass = true;

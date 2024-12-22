@@ -22,8 +22,6 @@ public class Tasks extends BaseTest {
     private WebDriver driver;
     private String browserName;
     private ExcelConfig excelConfig;
-    //private String clientName;
-    //private String habitName, goalValue, habitUnit, habitFrequency, startDate, endDate, habitRepeat, reminderTime
     private String startDateOnSchedule, endDateOnSchedule;
 
     private LoginPageObject loginPage;
