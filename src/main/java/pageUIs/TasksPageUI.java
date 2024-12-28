@@ -37,6 +37,7 @@ public class TasksPageUI {
 
     public static final String DYNAMIC_MONTH_YEAR_TITLE_IN_CALENDAR = "xpath=//div[@name='%s']/parent::div/following-sibling::div//th[@class='rdtSwitch']";
     public static final String DYNAMIC_NEXT_ICON_IN_CALENDAR= "xpath=//div[@name='%s']/parent::div/following-sibling::div//th[@class='rdtNext']";
+    public static final String DYNAMIC_PREV_ICON_IN_CALENDAR= "xpath=//div[@name='%s']/parent::div/following-sibling::div//th[@class='rdtPrev']";
 
     public static final String DELETE_SUCCESS_MSG = "xpath=//div[contains(@class,'toast-body')]";
     public static final String ITEM_SELECTED_IN_REMINDER_TIME = "xpath=//div[contains(@class,'single-value')]";

@@ -100,8 +100,7 @@ public class Tasks extends BaseTest {
         Assert.assertEquals(tasksPage.getItemTextSelectedInCalendarByText("START DATE", "startDate"), habitTaskData.getStartDateText());
         Assert.assertEquals(tasksPage.getItemTextSelectedInCalendarByText("END DATE", "endDate"), habitTaskData.getEndDateText());
 
-        tasksPage.openCalendarByName("endDate");
-        tasksPage.selectToDayInCalendarByLabel("END DATE", "rdtToday");
+        tasksPage.selectPastDateInCalendarByLabel("endDate", habitTaskData.getStartDate());
 
         Assert.assertEquals(tasksPage.getEndDateTextboxErrorMessage(), "Minimum 7 days apart");
         Assert.assertFalse(tasksPage.isSaveCloseButtonEnabled());

@@ -122,6 +122,40 @@ public class TasksPageObject extends BaseElement {
         }
     }
 
+    public void selectPastDateInCalendarByLabel(String calendarName, String value) {
+        openCalendarByName(calendarName);
+        // Lấy thông tin ngày từ value (dạng "dd/MM/yyyy")
+        String day = value.substring(0, 2);
+        String monthNumber = value.substring(3, 5);
+        String year = value.substring(6, 10);
+
+        String month = getMonthName(Integer.parseInt(monthNumber));
+
+        while(true)
+        {
+            String monthyear = getElementText(driver, TasksPageUI.DYNAMIC_MONTH_YEAR_TITLE_IN_CALENDAR, calendarName);
+            String[] arr =monthyear.split(" ");
+            String mon=arr[0];
+            String yr=arr[1];
+
+            if (mon.equalsIgnoreCase(month) && yr.equals(year)) {
+                break;
+            } else {
+                clickToElement(driver, TasksPageUI.DYNAMIC_PREV_ICON_IN_CALENDAR, calendarName);
+            }
+        }
+
+        List<WebElement> allDates = getListWebElement(driver, TasksPageUI.FUTURE_DATES_PICKUP, calendarName);
+
+        for (WebElement element : allDates){
+            String date = element.getText();
+            if (date.equals(day)){
+                element.click();
+                break;
+            }
+        }
+    }
+
     private String getMonthName(int monthNumber) {
         String[] months = {
                 "January", "February", "March", "April", "May", "June",
